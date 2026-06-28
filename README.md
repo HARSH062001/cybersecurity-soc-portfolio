@@ -33,6 +33,14 @@ Practical examples connected to CompTIA Security+ concepts such as CIA triad, au
 
 Status: In progress
 
+Current notes:
+
+* [CIA Triad — SOC and Cloud Security Example](security-plus-practical-foundations/cia-triad-soc-example.md)
+* [AAA and Zero Trust Access Control](security-plus-practical-foundations/aaa-zero-trust-access-control.md)
+* [Hashing, Encryption, and Non-Repudiation](security-plus-practical-foundations/hashing-encryption-non-repudiation.md)
+* [Security Controls Mapping](security-plus-practical-foundations/security-controls-mapping.md)
+* [PKI, X.509, and Certificates](security-plus-practical-foundations/pki-certificates-x509.md)
+
 ### 2. SOC Investigations
 
 SOC-style investigation writeups including phishing email analysis, failed-login analysis, brute-force detection, and basic incident reports.
