@@ -25,16 +25,28 @@ This portfolio documents my hands-on learning across:
 * MITRE ATT&CK, NIST CSF, ASD Essential Eight, and ISO 27001 basics
 * AI security and AI-assisted alert triage
 
+## Latest Progress
+
+**Security+ Domain 1: General Security Concepts — completed first mastery pass**
+
+Evidence completed:
+
+* Domain 1 quiz scores: 93%, 88%, and 87%
+* Practical notes for CIA triad, AAA/Zero Trust, hashing/encryption, security controls, and PKI/X.509
+* PowerShell SHA-256 hashing mini-lab
+* Browser TLS certificate inspection for `github.com`
+
 ## Portfolio Projects
 
 ### 1. Security+ Practical Foundations
 
-Practical examples connected to CompTIA Security+ concepts such as CIA triad, authentication, authorization, hashing, encryption, risk management, and incident response.
+Practical examples connected to CompTIA Security+ concepts such as CIA triad, authentication, authorization, hashing, encryption, risk management, PKI, certificates, Zero Trust, and incident response.
 
-Status: In progress
+Status: **Completed first mastery pass for Domain 1**
 
 Current notes:
 
+* [Domain 1 Mastery Summary](security-plus-practical-foundations/domain-1-mastery-summary.md)
 * [CIA Triad — SOC and Cloud Security Example](security-plus-practical-foundations/cia-triad-soc-example.md)
 * [AAA and Zero Trust Access Control](security-plus-practical-foundations/aaa-zero-trust-access-control.md)
 * [Hashing, Encryption, and Non-Repudiation](security-plus-practical-foundations/hashing-encryption-non-repudiation.md)
